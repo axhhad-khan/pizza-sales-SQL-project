@@ -32,7 +32,6 @@ The included **PowerPoint** presents insights visually, making it easy to unders
 
 ## 🛠️ Tech Stack
 - **SQL** – Querying and aggregating data  
-- **Python** – Optional for calculations and visualizations  
 - **PowerPoint (PPT)** – Summarizing results visually  
 
 ---
